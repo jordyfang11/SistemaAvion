@@ -75,6 +75,9 @@ public class Avion {
     public void setCombustible(double combustible) {
         this.combustible = combustible;
     }
+      public void setCombustible(double combustible) {
+        this.combustible = combustible;
+    }
     
     
 }
